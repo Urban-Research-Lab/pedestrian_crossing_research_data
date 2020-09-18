@@ -1,0 +1,8 @@
+Percentage report:
+
+Total Grass nodes: 57896, approx 0.0 m2
+Total Walkway nodes: 30172, approx 0.0 m2
+Total Stomped nodes: 1895, approx 0.0 m2
+
+Paths to Grass share: 3,27%
+Paths to Walkway share: 6,28%
